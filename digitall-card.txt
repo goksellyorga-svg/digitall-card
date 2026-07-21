@@ -1,0 +1,13 @@
+digitall-card/
+│
+├── index.html
+├── style.css
+├── script.js
+├── manifest.json
+├── assets/
+│   ├── logo.png
+│   ├── levent.jpg
+│   ├── icons/
+│   └── qr.png
+└── vcard/
+    └── levent.vcf
